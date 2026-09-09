@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://assialexis.github.io/archive-bxs2t9/sitemap.xml
